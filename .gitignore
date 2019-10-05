@@ -1,0 +1,8 @@
+
+# 檔案名稱 .gitignore
+
+# 忽略 yarn.lock 檔案
+yarn.lock
+
+# 忽略 node_modules 目錄下的 all 檔案
+node_modules/*
